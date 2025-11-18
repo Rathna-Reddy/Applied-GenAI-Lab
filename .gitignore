@@ -210,3 +210,4 @@ __marimo__/
 # Vector_db folder
 vector_db/
 
+notebooks/prices.db
